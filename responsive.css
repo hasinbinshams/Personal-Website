@@ -1,0 +1,305 @@
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /* Styles for small screens and up */
+    .contact-part {
+        display: block;
+        margin-top: 250px;
+    }
+
+    .contact-content {
+        width: 100%;
+        text-align: center;
+    }
+
+    .contact-content h1 {
+        font-size: 30px;
+        margin-top: 50px;
+    }
+
+    .icon {
+        justify-content: center;
+    }
+
+    .submit {
+        width: 100%;
+    }
+
+    .submit h1 {
+        font-size: 40px;
+    }
+
+    .alignment1 {
+        height: 30vh;
+    }
+
+    .intro h1 {
+        font-size: 30px;
+    }
+
+    .intro {
+        margin-top: 60px;
+    }
+
+    .srv {
+        height: 200vh;
+    }
+
+    .box {
+        width: 100%;
+        height: 200px;
+    }
+
+    .project-con {
+        flex-direction: column;
+        justify-content: space-between;
+        height: 200vh;
+    }
+
+    .img {
+        width: 60%;
+        margin-top: 50px;
+    }
+
+    .home-content h1 {
+        font-size: 20px;
+    }
+
+    .home-content h3 {
+        font-size: 15px;
+        margin-left: 0px;
+    }
+
+    .home-content {
+        margin-top: 150px;
+    }
+
+    .btn {
+        width: 50%;
+        font-size: 20px;
+        padding: 20px 20px;
+    }
+
+    .content-part {
+        font-size: 20px;
+    }
+
+    .content-part p {
+        font-size: 18px;
+        margin-left: 0px;
+    }
+
+    .box2 img {
+        width: 70%;
+    }
+
+    .identity {
+        font-size: 15px;
+    }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /* Styles for medium screens and up */
+    .intro h1 {
+        font-size: 30px;
+    }
+
+    .intro {
+        margin-top: 40px;
+    }
+
+    .alignment1 {
+        height: 30vh;
+    }
+
+    .box {
+        font-size: 20px;
+        width: 100%;
+        height: 200px;
+    }
+
+    .srv {
+        height: 200vh;
+    }
+
+    .project-con {
+        height: 200vh;
+        flex-direction: column;
+        margin-left: 0px;
+        gap: 0px 0px;
+        justify-content: space-between;
+    }
+
+    .box i {
+        font-size: 20px;
+    }
+
+    .box h3 {
+        font-size: 20px;
+    }
+
+    .box p {
+        font-size: 18px;
+    }
+
+    .submit h1 {
+        font-size: 50px;
+        margin-top: 75px;
+    }
+
+    .contact-content h1 {
+        font-size: 35px;
+        margin-top: 75px;
+    }
+
+    .contact-content p {
+        font-size: 18px;
+    }
+
+    .contact-content h3 {
+        font-size: 25px;
+    }
+
+    .contact-content {
+        padding: 0px 0px;
+        line-height: 30px;
+    }
+
+    .contact-part {
+        margin-top: 200px;
+    }
+
+    .img {
+        width: 60%;
+        margin-top: 50px;
+    }
+
+    .home-content h1 {
+        font-size: 30px;
+    }
+
+    .home-content h3 {
+        font-size: 20px;
+        margin-left: 0px;
+    }
+
+    .home-content {
+        margin-top: 150px;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    /* Styles for large screens and up */
+    .submit h1 {
+        font-size: 70px;
+        margin-top: 75px;
+    }
+
+    .btn-end {
+        margin-top: 100px;
+    }
+
+    .intro h1 {
+        font-size: 30px;
+    }
+
+    .intro {
+        margin-top: 40px;
+    }
+
+    .box p {
+        text-align: justify;
+        font-size: 15px;
+    }
+
+    .box i,
+    h3 {
+        font-size: 20px;
+    }
+
+    .box {
+        margin-bottom: 80px;
+        padding: 0px 20px;
+    }
+
+    .img {
+        width: 60%;
+        margin-top: 100px;
+    }
+
+    .home-content h1 {
+        font-size: 40px;
+    }
+
+    .home-content h3 {
+        font-size: 30px;
+        margin-left: 0px;
+    }
+
+    .home-content {
+        margin-top: 150px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+
+    /* Styles for extra-large screens and up */
+    .box {
+        margin-bottom: 70px;
+    }
+
+    .intro {
+        margin-top: 60px;
+    }
+
+    .img {
+        width: 54%;
+    }
+
+    .home-content {
+        margin-top: 160px;
+    }
+
+    .home-content h1 {
+        font-size: 60px;
+    }
+
+    .home-content h3 {
+        margin-left: 0px;
+    }
+}
+
+@media (min-width: 1400px) {
+
+    /* Styles for extra-extra-large screens and up */
+    .alignment1 {
+        height: 25vh;
+    }
+
+    .contact-part {
+        margin-top: 180px;
+    }
+
+    .img {
+        width: 54%;
+    }
+
+    .home-content {
+        margin-top: 160px;
+    }
+
+    .home-content h1 {
+        font-size: 60px;
+    }
+
+    .home-content h3 {
+        margin-left: 0px;
+    }
+}

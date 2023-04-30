@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
+    box-sizing: border-box;
 }
 
 .alignment {
@@ -13,6 +14,7 @@
     position: fixed;
     width: 100%;
     z-index: 2;
+    box-shadow: 0 0 10px black;
 }
 
 .logo h1 {
@@ -339,7 +341,7 @@ input {
 
 .submit h1 {
     font-size: 70px;
-    margin-top: 40px;
+    margin-top: 0px;
 
 }
 
